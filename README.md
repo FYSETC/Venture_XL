@@ -1,6 +1,6 @@
 # FYSETC-Doron Velta
 
-![FYSETC_Doron_Velta](E:\A-刘军\工作任务\5.VORON 600\VORON 600 -A6\资料\images\voron 600整机.410.png)
+![FYSETC_Doron_Velta]((https://github.com/FYSETC/FYSETC-Venture_XL/blob/main/images/Venture_XL_600_images2.png))
 
 ## 1. Project
 
