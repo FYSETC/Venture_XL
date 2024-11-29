@@ -1,6 +1,6 @@
 # FYSETC-Doron Velta
 
-![Venture_XL_600_images2.png]((https://raw.github.com/FYSETC/FYSETC-Venture_XL/main/images/Venture_XL_600_images2.png))
+![FYSETC_Venture_XL_600_images1.png]((https://github.com/FYSETC/FYSETC-Venture_XL/blob/main/images/FYSETC_Venture_XL_600_images1.png))
 
 ## 1. Project
 
