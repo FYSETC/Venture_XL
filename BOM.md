@@ -17,8 +17,8 @@
 | 11    | Motion               | MGN12H Linear Rail and Carriage 760mm                        | 1 PCS  |             |
 | 12    | Vibration Management | Universal Fomar Caster                                       | 4 PCS  |             |
 | 13    | Electronics          | Stealthburner CAN Toolhead Board                             | 1 SET  |             |
-| 14    | Electronics          | X AXIS ENDSTOP OMRON MICROSWITCH                             | 1 SET  | ON extruder |
-| 15    | Electronics          | Y AXIS ENDSTOP OMRON MICROSWITCH                             | 1 SET  | Independent |
+| 14    | Electronics          | X AXIS ENDSTOP OMRON MICROSWITCH                             | 1 SET  |             |
+| 15    | Electronics          | Y AXIS ENDSTOP OMRON MICROSWITCH                             | 1 SET  |             |
 | 16    | Electronics          | ADXL__Hybrid_IDM                                             | 1 SET  |             |
 | 17    | Electronics          | NeoPixel RGBW Mini Button PCB LED                            | 1 SET  |             |
 | 18    | Electronics          | Four-way solid state relay                                   | 1 PCS  |             |
