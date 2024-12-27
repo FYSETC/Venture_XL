@@ -102,8 +102,8 @@ In addition, the complete enclosure design provides an insulated space for the p
 | 23    | Electronics          | 42HSC8418-37                                                 | 2 PCS  |
 | 24    | Electronics          | 40x40x10 Axial Fan (24V)  Dual Ball Bearing with heat sink   | 2 PCS  |
 | 25    | Electronics          | G36HSY4405-6D-60(check [here](https://github.com/FYSETC/FYSETC-VORON-2.4-R2-Pro/tree/main/Docs/Stepper%20motor%20parameters)) | 1 PCS  |
-| 26    | Electronics          | 350W-24V Power supply                                        | 1 PCS  |
-| 27    | Electronics          | 350W-48V Power supply                                        | 1 PCS  |
+| 26    | Electronics          | Meanwell 350W-24V Power supply                               | 1 PCS  |
+| 27    | Electronics          | Meanwell350W-48V Power supply                                | 1 PCS  |
 | 28    | Electronics          | 30x30x7 Axial Fan (24V)                                      | 1 PCS  |
 | 29    | Electronics          | 40x40x10 Axial Fan (24V)  Dual Ball Bearing                  | 1 PCS  |
 | 30    | Electronics          | 50x50x15 Centrifugal Fan (24V)  Dual Ball Bearing            | 1 PCS  |
@@ -114,14 +114,14 @@ In addition, the complete enclosure design provides an insulated space for the p
 | 35    | Electronics          | Gantry light bar power board                                 | 1 PCS  |
 | 36    | Electronics          | Gantry light bar                                             | 1 PCS  |
 | 37    | Electronics          | Lighting strips                                              | 1 PCS  |
-| 38    | Electronics          | Camera                                                       | 1 PCS  |
-| 39    | Electronics          | Electric box                                                 | 1 PCS  |
-| 40    | Controller           | sdcard 16GB                                                  | 1 PCS  |
-| 41    | Controller           | USB C cable                                                  | 1 PCS  |
+| 38    | Electronics          | C270 Camera                                                  | 1 PCS  |
+| 39    | Electronics          | Electronic box (assembled )                                  | 1 PCS  |
+| 40    | Controller           | ~~sdcard 16GB~~                                              | 1 PCS  |
+| 41    | Controller           | USB2.0 A-C cable &  USB3.0 A-A cable                         | 1 PCS  |
 | 42    | Controller           | Spider_Pro_V1.0                                              | 1 PCS  |
 | 43    | Controller           | TMC2209 Stepper Motor Driver                                 | 4 PCS  |
 | 44    | Controller           | BIG 5160 Stepper Motor Driver                                | 2 PCS  |
-| 45    | Controller           | 7-inch screen controller assembly (7-inch display + CM68 control board + display cable + CM68 radiator + 4010 cooling fan + printed housing) | 1 SET  |
+| 45    | Controller           | 7-inch screen controller assembly set                        | 1 SET  |
 | 46    | Frame                | OpenBuilds                                                   | 12 PCS |
 | 47    | Frame                | Misumi sectional profile Kit（23 Pcs）                       | 1 SET  |
 | 48    | Frame                | Sealing profile kit（12 Pcs）                                | 1 SET  |
