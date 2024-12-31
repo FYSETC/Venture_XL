@@ -37,7 +37,8 @@ In addition, the complete enclosure design provides an insulated space for the p
 - 4xZ reduction motor
 - 2.5A high temperature, high torque XY motor
 - Cartographer 3D Eddy Current Sensor
-- Filament sensor;
+- Filament sensor
+- Logitech C270 Camera 
 
 
 
@@ -62,8 +63,6 @@ In addition, the complete enclosure design provides an insulated space for the p
 - CNC aluminum alloy link components to ensure the structural strength of the equipment;
 
 - Z-axis 27:1 reduction motor ensures that the Z-axis is more stable and does not slip when the machine is running or stopped;
-
-- Logitech C270 Camera , watch at any time Check the machine's operating status;
 
 - IDMCNC metal bracket can withstand high temperature challenges and ensure stability. In a high-temperature printing environment, it will not deform or fail, ensuring long-lasting and reliable performance. The bracket weighs only 26g, which is lighter than TAP leveling and old-style proximity switches. The bracket weighs only 26g, which is lighter than TAP leveling and old-style proximity switches, reducing inertia and improving speed, accuracy and printing quality;
 
