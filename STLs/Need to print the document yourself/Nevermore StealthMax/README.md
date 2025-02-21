@@ -1,4 +1,4 @@
-## ## Nevermore StealthMax Air Filter Description
+## Nevermore StealthMax Air Filter Description
 
 ### Nevermore StealthMax
 
@@ -14,6 +14,7 @@ https://github.com/nevermore3d/StealthMax
 
 FYSETC Venture_XL_StealthMax Assembly manual [here]([FYSETC/Venture_XL](https://github.com/FYSETC/Venture_XL/tree/main) ).
 
+![Venture_XL_StealthMax_images1](https://github.com/user-attachments/assets/6bf7a6de-2061-40ef-a7da-75241b7673aa)
 
 
 # Firmware&OS
