@@ -8,7 +8,8 @@ This is a project from the Nevermore3d, Nevermore StealthMax. We made a little u
 
 https://github.com/nevermore3d/StealthMax
 
-https://github.com/FYSETC/Venture_XL/blob/main/images/StealthMax.333.jpg
+![StealthMax 333](https://github.com/user-attachments/assets/fa79c61c-56f2-402e-9611-b9575fbd799f)
+
 
 # Installation Guide
 
