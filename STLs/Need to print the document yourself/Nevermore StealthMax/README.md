@@ -1,15 +1,37 @@
-## Legacy Files
-### Looking for Older StealthMax Files?
-Do you want to print replacements parts for an existing StealthMax or simply prefer the older version? <br>
-The files you are looking for can still be accessed from a previous branch of the StealthMax repository.
+## ## Nevermore StealthMax Air Filter Description
 
-The last branch before the StealthMax repository was restructured and various quality of life enhancements were implemented is [`03943a1`](https://github.com/nevermore3d/StealthMax/tree/03943a1d3c7519fd73a51dbf063abd58a43e0050).
-<br><br>
-### What's a Branch?
-GitHub provides the capability to explore [repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) at earlier points in time through the creation of new [branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) for each [commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits). <br>
-This allows you to still access the old CAD and STL files.
-<br><br>
-### Still need Assistance?
-You are more than welcome to ask for help over at the [Nevermore Discord server](https://discord.gg/H8tZ9fZVQ4).
+### Nevermore StealthMax
 
-[![Discord](https://img.shields.io/discord/1017933489779245137?style=flat-square&logo=discord&logoColor=white&label=Discord&labelColor=%237785cc&color=grey&link=https%3A%2F%2Fdiscord.gg%2FH8tZ9fZVQ4)](https://discord.gg/H8tZ9fZVQ4)
+This is a project from the Nevermore3d, Nevermore StealthMax. We made a little upgrade and improvement on the basis of this project, and provided a complete set of information. Thanks to the open source materials and support provided by the Nevermore3d, and hope you like it. You can find Nevermore3d official information below. 
+
+1.StealthMax Official website： 
+
+https://github.com/nevermore3d/StealthMax
+
+
+
+# Installation Guide
+
+FYSETC Venture_XL_StealthMax Assembly manual [here]([FYSETC/Venture_XL](https://github.com/FYSETC/Venture_XL/tree/main) ).
+
+
+
+# Firmware&OS
+
+# FAQ
+
+### Original Venture_XL_StealthMax FAQ [here]((https://github.com/nevermore3d/StealthMax/tree/main/STLs) ).
+
+### FYSETC Venture_XL_StealthMax FAQ
+
+
+
+# Support
+
+FYSETC Facebook group:
+
+<https://www.facebook.com/groups/238970713918171>
+
+FYSETC Discord:
+
+<https://discord.gg/T3XcJPgr>
