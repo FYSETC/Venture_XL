@@ -8,15 +8,11 @@ This is a project from the Nevermore3d, Nevermore StealthMax. We made a little u
 
 https://github.com/nevermore3d/StealthMax
 
-![StealthMax 333](https://github.com/user-attachments/assets/fa79c61c-56f2-402e-9611-b9575fbd799f)
-
+![Venture_XL_600_StealthMax](https://github.com/user-attachments/assets/4d6f9fd1-c7ed-4f1a-9981-c4f6bccd82f4)
 
 # Installation Guide
 
 FYSETC Venture_XL_StealthMax Assembly manual [here]([FYSETC/Venture_XL](https://github.com/FYSETC/Venture_XL/tree/main) ).
-
-
-
 
 # Firmware&OS
 
