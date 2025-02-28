@@ -180,7 +180,7 @@ As an open source machine, it has unlimited possibilities. We will do our best t
 | Tutorial: Combo V2 USB usage guide | |  |
 | Tutorial: AWD modification guide | | |
 | Tutorial: IDEX modification tutorial | | |
-| Tutorial: A more perfect wiring tutorial | | |
+| Tutorial: A more perfect wiring tutorial | (i) | Esoterical |
 | Tutorial: Structural installation video | | |
 | Tutorial: Wiring tutorial | | |
 | Tutorial: Configuration tutorial | | |
