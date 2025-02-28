@@ -191,6 +191,5 @@ As an open source machine, it has unlimited possibilities. We will do our best t
 
 # Thanks to
 Here I would like to express my gratitude and support to Esoterical、 RichardTHF and many others. Your suggestions have helped us a lot - you all have my most sincere thanks.
-https://github.com/FYSETC/Venture_XL/blob/main/images/other/Cable%20Management.png
+![Cable Management](https://github.com/user-attachments/assets/612a2d95-66e0-4125-888d-c68b153de87e)
 
-https://github.com/FYSETC/Venture_XL/blob/main/images/other/Thermal%20Fuse%20Installation.webp
