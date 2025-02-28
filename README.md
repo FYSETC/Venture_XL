@@ -186,3 +186,11 @@ As an open source machine, it has unlimited possibilities. We will do our best t
 | Tutorial: Configuration tutorial | | |
 | Evaluation: Speed limit | | |
 | Evaluation: Common problems and solutions | | |
+
+
+
+# Thanks to
+Here I would like to express my gratitude and support to Esoterical、 RichardTHF and many others. Your suggestions have helped us a lot - you all have my most sincere thanks.
+https://github.com/FYSETC/Venture_XL/blob/main/images/other/Cable%20Management.png
+
+https://github.com/FYSETC/Venture_XL/blob/main/images/other/Thermal%20Fuse%20Installation.webp
