@@ -186,3 +186,10 @@ As an open source machine, it has unlimited possibilities. We will do our best t
 | Tutorial: Configuration tutorial | | |
 | Evaluation: Speed limit | | |
 | Evaluation: Common problems and solutions | | |
+
+
+
+# Thanks to
+Here I would like to express my gratitude and support to Esoterical、 RichardTHF and many others. Your suggestions have helped us a lot - you all have my most sincere thanks.
+![Cable Management](https://github.com/user-attachments/assets/612a2d95-66e0-4125-888d-c68b153de87e)
+
