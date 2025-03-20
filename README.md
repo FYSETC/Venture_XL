@@ -191,5 +191,7 @@ As an open source machine, it has unlimited possibilities. We will do our best t
 
 # Thanks to
 Here I would like to express my gratitude and support to Esoterical、 RichardTHF and many others. Your suggestions have helped us a lot - you all have my most sincere thanks.
+
 ![Cable Management](https://github.com/user-attachments/assets/612a2d95-66e0-4125-888d-c68b153de87e)
+![Thermal Fuse Installation](https://github.com/user-attachments/assets/78f4366c-9c32-4f63-9eeb-a0afe648788c)
 
