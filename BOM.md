@@ -63,7 +63,7 @@
 | 57    | Cables               | VORON Chain Kit (10X10mm)                                    | 3 PCS  |             |
 | 58    | Panels               | Bottom / Back / Side / Front / Top / Electric box Panels     | 13 PCS |             |
 | 59    | Buildplate           | 6061 Plate - 302X302x5mm （Surface milling improve flatness） | 4 PCS  |             |
-| 60    | Buildplate           | Silicone AC Heater - 250x250mm (450W)+Thermal Fuse RH15A125（Pluggable） | 4 PCS  |             |
+| 60    | Buildplate           | Silicone AC Heater - 250x250mm (450W)                         | 4 PCS  |             |
 | 61    | Buildplate           | JanusBPS Textured steel plate 605 x 605mm （Double-sided powder gold） | 1 PCS  |             |
 | 62    | Buildplate           | Scratch-proof Magnetic stickers 300X300mm thickness 1.5mm    | 1 PCS  |             |
 | 63    | Buildplate           | Hotbed Insulation cotton thickness 5mm                       | 1 PCS  |             |
