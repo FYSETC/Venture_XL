@@ -211,6 +211,9 @@ As an open source machine, it has unlimited possibilities. We will do our best t
    ![Cable Management.jpg](https://github.com/FYSETC/Venture_XL/blob/main/images/other/Cable%20Management.jpg?raw=true)
 [here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Under%20Floor%20Wire%20Cover/Under%20Floor%20Wire%20Cover_1_x1.STL)  [here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Under%20Floor%20Wire%20Cover/Under%20Floor%20Wire%20Cover_2_x1.STL)
 
+4. The M3x40 motor mounting screws are a bit long, so you can use M3x38 instead, or add M3 washers and use M3x40 for installation.
+   ![A Drive.png](https://github.com/FYSETC/Venture_XL/blob/main/images/other/A%20Drive.png?raw=true)
+   ![B Drive.png](https://github.com/FYSETC/Venture_XL/blob/main/images/other/B%20Drive.png?raw=true)
 
 # Thanks to
 Here I would like to express my gratitude and support to Esoterical、 RichardTHF and many others. Your suggestions have helped us a lot - you all have my most sincere thanks.
