@@ -215,6 +215,9 @@ As an open source machine, it has unlimited possibilities. We will do our best t
    ![A Drive.png](https://github.com/FYSETC/Venture_XL/blob/main/images/other/A%20Drive.png?raw=true)
    ![B Drive.png](https://github.com/FYSETC/Venture_XL/blob/main/images/other/B%20Drive.png?raw=true)
 
+5. Added hot bed thermal fuse
+   ![Thermal Fuse Installation.jpeg](https://github.com/FYSETC/Venture_XL/blob/main/images/other/Thermal%20Fuse%20Installation.jpeg?raw=true)
+
 # Thanks to
 Here I would like to express my gratitude and support to Esoterical、 RichardTHF and many others. Your suggestions have helped us a lot - you all have my most sincere thanks.
 
