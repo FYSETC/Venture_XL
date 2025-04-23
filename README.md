@@ -193,7 +193,8 @@ As an open source machine, it has unlimited possibilities. We will do our best t
 1.  Instructions for use of motor connection wire:
     Z0 and Z3 motors need to use 3.5m connecting wires, Z1 motor uses 1.85m connecting wires, and the connecting wires of Z2 motor and B motor are swapped to solve the problem of short connecting wire of B motor. A Motor connection line remains unchanged
     
-1. Print file updates
+2. Print file updates
+   
    ![Chain_Anchor_3_Hole_V2_Trident.png](https://github.com/FYSETC/Venture_XL/blob/main/images/Print%20file%20updates/Chain_Anchor_3_Hole_V2_Trident.png?raw=true)[here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Stealthburner/Chain_Anchor_3_Hole_V2_Trident.STL))
 
    ![SB_Dragon_Cutting_Printhead_Back.png](https://github.com/FYSETC/Venture_XL/blob/main/images/Print%20file%20updates/SB_Dragon_Cutting_Printhead_Back.png?raw=true)[here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Stealthburner/SB_Dragon_Cutting_Printhead_Back.STL))
@@ -206,7 +207,7 @@ As an open source machine, it has unlimited possibilities. We will do our best t
 
    ![[a]_xy_joint_cable_bridge_2hole.stl.png](https://github.com/FYSETC/Venture_XL/blob/main/images/Print%20file%20updates/%5Ba%5D_xy_joint_cable_bridge_2hole.stl.png?raw=true)[here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/XY_Joints/%5Ba%5D_xy_joint_cable_bridge_2hole.stl.stl)
 
-1. Add bottom cable cover
+3. Add bottom cable cover
    ![Cable Management.jpg](https://github.com/FYSETC/Venture_XL/blob/main/images/other/Cable%20Management.jpg?raw=true)
 [here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Under%20Floor%20Wire%20Cover/Under%20Floor%20Wire%20Cover_1_x1.STL)  [here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Under%20Floor%20Wire%20Cover/Under%20Floor%20Wire%20Cover_2_x1.STL)
 
