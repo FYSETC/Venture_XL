@@ -188,10 +188,30 @@ As an open source machine, it has unlimited possibilities. We will do our best t
 | Evaluation: Common problems and solutions | | |
 
 
+# Known issue
+
+1.  Instructions for use of motor connection wire:
+    Z0 and Z3 motors need to use 3.5m connecting wires, Z1 motor uses 1.85m connecting wires, and the connecting wires of Z2 motor and B motor are swapped to solve the problem of short connecting wire of B motor. A Motor connection line remains unchanged
+    
+2. Update Notes
+
+   
+| Column |images |Installation location |Download Link | |
+| - | - | - | - | - |
+|1 |![A Drive.png](https://github.com/FYSETC/Venture_XL/blob/main/images/other/A%20Drive.png?raw=true) |Manual page 26 | |The M3x40 motor mounting screws are a bit long, so you can use M3x38 instead, or add M3 washers and use M3x40 for installation. |
+|2 |![B Drive.png](https://github.com/FYSETC/Venture_XL/blob/main/images/other/B%20Drive.png?raw=true) |Manual page 27 | |The M3x40 motor mounting screws are a bit long, so you can use M3x38 instead, or add M3 washers and use M3x40 for installation.  |
+|3 |![Thermal Fuse Installation.jpeg](https://github.com/FYSETC/Venture_XL/blob/main/images/other/Thermal%20Fuse%20Installation.jpeg?raw=true) |Manual page 43 | |Added hot bed thermal fuse |
+|4 |![Chain_Anchor_3_Hole_V2_Trident.png](https://github.com/FYSETC/Venture_XL/blob/main/images/Print%20file%20updates/Chain_Anchor_3_Hole_V2_Trident.png?raw=true) |Manual page 48 |[here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Stealthburner/Chain_Anchor_3_Hole_V2_Trident.STL) | |
+|5 |![SB_Dragon_Cutting_Printhead_Back.png](https://github.com/FYSETC/Venture_XL/blob/main/images/Print%20file%20updates/SB_Dragon_Cutting_Printhead_Back.png?raw=true) |Manual page 48 |[here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Stealthburner/SB_Dragon_Cutting_Printhead_Back.STL) | |
+|6 |![{a}Shuttle_x1.png](https://github.com/FYSETC/Venture_XL/blob/main/images/Print%20file%20updates/%7Ba%7DShuttle_x1.png?raw=true) |Manual page 49 |[here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Stealthburner/%7Ba%7DShuttle_x1.STL) | |
+|7 |![SB_Dragon_Cutting_Printhead_Front.png](https://github.com/FYSETC/Venture_XL/blob/main/images/Print%20file%20updates/SB_Dragon_Cutting_Printhead_Front.png?raw=true) |Manual page 50 |[here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Stealthburner/SB_Dragon_Cutting_Printhead_Front.STL) | |
+|8 |![[o]_stealthburner_LED_carrier_rev2.STL.png](https://github.com/FYSETC/Venture_XL/blob/main/images/Print%20file%20updates/%5Bo%5D_stealthburner_LED_carrier_rev2.STL.png?raw=true) |Manual page 52 |[here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Stealthburner/%5Bo%5D_stealthburner_LED_carrier_rev2.STL.stl) | |
+|9 |![[a]_xy_joint_cable_bridge_2hole.stl.png](https://github.com/FYSETC/Venture_XL/blob/main/images/Print%20file%20updates/%5Ba%5D_xy_joint_cable_bridge_2hole.stl.png?raw=true) |Manual page 53 |[here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/XY_Joints/%5Ba%5D_xy_joint_cable_bridge_2hole.stl.stl) | |
+|10 |![Motor line repair.jpg](https://github.com/FYSETC/Venture_XL/blob/main/images/other/Motor%20line%20repair.jpg?raw=true) | | |Motor line repair |
+|11 |![Cable Management.jpg](https://github.com/FYSETC/Venture_XL/blob/main/images/other/Cable%20Management.jpg?raw=true) |Manual page 59 |[here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Under%20Floor%20Wire%20Cover/Under%20Floor%20Wire%20Cover_1_x1.STL)  [here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Under%20Floor%20Wire%20Cover/Under%20Floor%20Wire%20Cover_2_x1.STL) |Add bottom cable cover |
+
 
 # Thanks to
 Here I would like to express my gratitude and support to Esoterical、 RichardTHF and many others. Your suggestions have helped us a lot - you all have my most sincere thanks.
 
-![Cable Management](https://github.com/user-attachments/assets/612a2d95-66e0-4125-888d-c68b153de87e)
-![Thermal Fuse Installation](https://github.com/user-attachments/assets/78f4366c-9c32-4f63-9eeb-a0afe648788c)
 
