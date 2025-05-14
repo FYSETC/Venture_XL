@@ -44,7 +44,7 @@ In addition, the complete enclosure design provides an insulated space for the p
 
 ## Mechanical
 
-- Super large size: 900x900x900mm, can meet AWD or IDEX upgrade modification;
+- Super large size: 910x910x940mm, can meet AWD or IDEX upgrade modification;
 
 - Enclosed cavity, more materials can be printed, healthier printing method, the box is sealed by segmented assembly, easy to install and ensure structural strength;
 
