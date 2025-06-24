@@ -211,11 +211,13 @@ As an open source machine, it has unlimited possibilities. We will do our best t
 |11 |![Cable Management.jpg](https://github.com/FYSETC/Venture_XL/blob/main/images/other/Cable%20Management.jpg?raw=true) |Manual page 59 |[here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Under%20Floor%20Wire%20Cover/Under%20Floor%20Wire%20Cover_1_x1.STL)  [here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Under%20Floor%20Wire%20Cover/Under%20Floor%20Wire%20Cover_2_x1.STL) |Add bottom cable cover |
 
 **Please provide the order number to contact customer service to collect the supplementary accessory package.**
+
 3. Notice
 
 Venture_XL CAD need to use WinRAR to decompress, otherwise the file cannot be opened.
 
 4.Instructions
+
 We have updated the installation guide on WIKI,；
 link:(https://wiki.fysetc.com/docs/Venture_XL)
 
