@@ -6,7 +6,7 @@
 
 
 ### Cutting point on gantry
-- 1x M3x50 BHCS
+- 1x M3x30/M3x35 BHCS
 - 2x Threaded Insert M3*5.0xH4.0
 - 2x M3 Nut
 - 2x M3x8 FHCS
