@@ -18,7 +18,7 @@ In addition, the complete enclosure design provides an insulated space for the p
 
 
 
-# Fetrues
+# Features
 
 
 
@@ -26,7 +26,7 @@ In addition, the complete enclosure design provides an insulated space for the p
 
 - RK3568 (2+32GB) 4 core A55 2.0GHz Host
 - Spider Pro 2.0 Controller, 550Hz H723
-- SB Comobo V2 control board (Via CABUS)
+- SB Combo V2 control board (Via CANBUS)
 - 7-inch FHD optically bonded capacitive touch screen
 - RGB lighting system , Horizontal RGB lighting (84 LEDs) & SB LOGO RGB (10 LEDs) & Vertical RGB lighting (2x84 LEDs)
 - Dual 350W PSU, 48V+24V
