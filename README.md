@@ -209,7 +209,6 @@ As an open source machine, it has unlimited possibilities. We will do our best t
 |9 |![[a]_xy_joint_cable_bridge_2hole.stl.png](https://github.com/FYSETC/Venture_XL/blob/main/images/Print%20file%20updates/%5Ba%5D_xy_joint_cable_bridge_2hole.stl.png?raw=true) |Manual page 53 |[here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/XY_Joints/%5Ba%5D_xy_joint_cable_bridge_2hole.stl.stl) | |
 |10 |![Motor line repair.jpg](https://github.com/FYSETC/Venture_XL/blob/main/images/other/Motor%20line%20repair.jpg?raw=true) | | |Motor line repair |
 |11 |![Cable Management.jpg](https://github.com/FYSETC/Venture_XL/blob/main/images/other/Cable%20Management.jpg?raw=true) |Manual page 59 |[here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Under%20Floor%20Wire%20Cover/Under%20Floor%20Wire%20Cover_1_x1.STL)  [here](https://github.com/FYSETC/Venture_XL/blob/main/STLs/Need%20to%20print%20the%20document%20yourself/Under%20Floor%20Wire%20Cover/Under%20Floor%20Wire%20Cover_2_x1.STL) |Add bottom cable cover |
-|12 | |  |[here](https://github.com/FYSETC/Venture_XL/blob/main/Wiring%20Diagram/Venture_XL_Spider%20King_V1.3_WIRING.pdf)) |Replaced mainboard, updated wiring diagram |
 
 **Please provide the order number to contact customer service to collect the supplementary accessory package.**
 
@@ -221,6 +220,11 @@ Venture_XL CAD need to use WinRAR to decompress, otherwise the file cannot be op
 
 We have updated the installation guide on WIKI,；
 link:(https://wiki.fysetc.com/docs/Venture_XL)
+
+5.Version 2 - Spider King
+
+The motherboard has been updated and replaced with Spider King.
+Replaced mainboard, updated wiring diagram
 
 # Thanks to
 Here I would like to express my gratitude and support to Esoterical、 RichardTHF and many others. Your suggestions have helped us a lot - you all have my most sincere thanks.
