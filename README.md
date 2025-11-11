@@ -97,8 +97,8 @@ In addition, the complete enclosure design provides an insulated space for the p
 | 19    | Electronics          | AC contactor                                                 | 1 PCS  |
 | 20    | Electronics          | Rocker Switch                                                | 1 PCS  |
 | 21    | Electronics          | AC pin socket                                                | 1 PCS  |
-| 22    | Electronics          | 42HSC8418-19PG27S [here](https://github.com/FYSETC/FYSETC-MOTORS/tree/main/42HSC8418-19PG27S))   | 4 PCS  |
-| 23    | Electronics          | 42HSC8418-37     [here](https://github.com/FYSETC/FYSETC-MOTORS/tree/main/42HSC8418-37))  | 2 PCS  |
+| 22    | Electronics          | 42HSC8418-19PG27S(check [here](https://github.com/FYSETC/FYSETC-MOTORS/tree/main/42HSC8418-19PG27S))   | 4 PCS  |
+| 23    | Electronics          | 42HSC8418-37(check [here](https://github.com/FYSETC/FYSETC-MOTORS/tree/main/42HSC8418-37))  | 2 PCS  |
 | 24    | Electronics          | 40x40x10 Axial Fan (24V)  Dual Ball Bearing with heat sink   | 2 PCS  |
 | 25    | Electronics          | G36HSY4405-6D-60(check [here](https://github.com/FYSETC/FYSETC-VORON-2.4-R2-Pro/tree/main/Docs/Stepper%20motor%20parameters)) | 1 PCS  |
 | 26    | Electronics          | Meanwell 350W-24V Power supply                               | 1 PCS  |
